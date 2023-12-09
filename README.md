@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm Nithin S
+# 👋 Hi there! I'm
+# <span style="font-size: 3em;">Nithin S</span>
 
 Aspiring Full-Stack Web Developer | Open Source Enthusiast | Job Seeker
 
